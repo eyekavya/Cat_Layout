@@ -2,3 +2,12 @@ body {
     background: #efefef;
 }
 
+header {
+    width: 100%;
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 15px;
+    position: fixed;
+}
+
