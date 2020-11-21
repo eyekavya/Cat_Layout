@@ -26,6 +26,7 @@ body {
     margin: 80px 30px;
     float: left;
     /* display: inline-block; */
+    line-height: 1.3;
 }
 
 .topic ul li {
@@ -51,8 +52,8 @@ body {
 }
 
 .comment {
-    width: 100px;
-    margin: 80px 0;
+    width: 293px;
+    margin: 80px 30px;
     float: right;
     /* display: inline-block; */
 }
@@ -61,5 +62,5 @@ body {
     font-family: 'Fira Sans', sans-serif;
     font-size: 20px;
     color: rgba(0, 0, 0, 0.705);
-
+    line-height: 1.4;
 }
